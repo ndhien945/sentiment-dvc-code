@@ -11,3 +11,7 @@ XNF46M7CS2
 8BEWKH4X88
 S5TMW7EGC5
 ngrok auth token: 3BVlsDwoTkPQgC0RgVKc5d6js8C_5MZCmPKqofZaEotxqtUJ3
+
+dvc remote modify dagshub auth basic
+dvc remote modify dagshub user ndhien945
+dvc remote modify dagshub password ba0f77bc7b334fc44f2279ba9536524d40733ea5

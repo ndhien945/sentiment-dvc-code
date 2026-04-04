@@ -45,3 +45,6 @@ deepseek_ocr/
 *.key
 .env.local
 .env.*.local
+
+API.txt
+/data
